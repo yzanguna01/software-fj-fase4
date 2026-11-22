@@ -1,0 +1,17 @@
+2026-11-21 21:35:24,117 - INFO - Cliente registrado: Carlos Perez
+2026-11-21 21:35:24,118 - INFO - Cliente registrado: Maria Lopez
+2026-11-21 21:35:24,119 - ERROR - Cliente invalido: El correo electronico no es valido.
+2026-11-21 21:35:24,119 - INFO - Servicio registrado: Sala de reuniones
+2026-11-21 21:35:24,119 - INFO - Servicio registrado: Computador portatil
+2026-11-21 21:35:24,120 - INFO - Servicio registrado: Asesoria en sistemas
+2026-11-21 21:35:24,120 - ERROR - Servicio invalido: El precio debe ser mayor que cero.
+2026-11-21 21:35:24,121 - INFO - Reserva creada: R001
+2026-11-21 21:35:24,121 - INFO - Reserva R001 confirmada.
+2026-11-21 21:35:24,122 - INFO - Reserva R001 procesada. Total: 107100.0
+2026-11-21 21:35:24,122 - ERROR - Error al crear reserva: La duracion debe ser positiva.
+2026-11-21 21:35:24,123 - INFO - Reserva creada: R003
+2026-11-21 21:35:24,123 - INFO - Reserva R003 cancelada.
+2026-11-21 21:35:24,124 - INFO - Reserva creada: R004
+2026-11-21 21:35:24,124 - INFO - Reserva R004 procesada. Total: 180880.0
+2026-11-21 21:35:24,125 - ERROR - Error de confirmacion: Solo se pueden confirmar reservas pendientes.
+2026-11-21 21:35:24,126 - ERROR - Excepcion encadenada: No se pudo convertir el dato.
